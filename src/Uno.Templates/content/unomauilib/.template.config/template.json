@@ -22,7 +22,7 @@
   "sourceName": "MyExtensionsApp.1",
   "defaultName": "UnoMauiLibrary",
   "placeholderFilename": "template-ignore",
-  "preferNameDirectory": true,
+  "preferNameDirectory": false,
   "symbols": {
     "tfm": {
       "displayName": "Target Framework",

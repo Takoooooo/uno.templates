@@ -24,7 +24,7 @@
   "shortName": "unolib",
   "sourceName": "CrossTargetedLibrary",
   "placeholderFilename": "template-ignore",
-  "preferNameDirectory": true,
+  "preferNameDirectory": false,
   "guids": [
     "4C26868E-5E7C-458D-82E3-040509D0C71F", // Solution file (SLN)
     "99E19497-29A6-4B77-B773-BEC55F9B55DC", // .NET Standard Library
